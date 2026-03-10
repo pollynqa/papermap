@@ -1,6 +1,6 @@
-# 🗺️ PaperMap
+# PaperMap
 
-> **Type a topic → see every connected paper on arXiv, mapped as a live knowledge graph**
+> **Type a topic and see every connected paper on arXiv, mapped as a live knowledge graph**
 
 ## What it does
 
@@ -8,8 +8,8 @@
 2. PaperMap fetches related papers from **arXiv**
 3. An LLM extracts **key concepts** from each abstract
 4. Papers sharing concepts get connected in a **Neo4j knowledge graph**
-5. You explore the graph visually — clicking nodes shows neighbours
-6. You **chat** with the graph: *"which paper should I read first?"*, *"what links these two papers?"*
+5. You explore the graph visually, clicking nodes shows neighbours
+
 
 ## Quick start
 
